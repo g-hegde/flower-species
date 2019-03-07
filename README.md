@@ -7,10 +7,10 @@ The dataset was provided by Udacity. Convolutional Neural Networks (CNN) pre-tra
 # Table of Contents  
 [Packages Needed](#packages)  
 [File Description](#desc)  
-[Files Needed](#files)
+[Files Needed](#files)  
 [Usage Examples](#usage)
 
-<a name="packages"/>
+<a name="packages"/>  
 ## Packages Needed
 
 PyTorch  
@@ -26,15 +26,15 @@ PyTorch
 6. README.md - this file.
 
 <a name="files"/>  
-## Files Needed
+## Files Needed  
 
 1. flowers/ - Main data directory that contains
 2. train/
 3. test/ and 
 4. validate/ folders with images belonging to each category in folders titled 1/ through 102/
 
-<a name="usage"/> 
-## Usage examples:
+<a name="usage"/>   
+## Usage examples  
 
 train.py
 1. python3 train.py --train  
