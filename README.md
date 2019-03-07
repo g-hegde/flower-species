@@ -22,7 +22,7 @@ PyTorch
 2. predict.py - Script for prediction of flower classes using a model trained using train.py.  
 3. workspace_utils.py - Udacity supplied script to keep session running even when user is inactive.  
 4. cat_to_name.json - Map flower class/category to name  
-5. Image Classifier Project.ipynb -  is the classifier sandbox that was bifurcated into the two command line applications (train.py and test.py).  
+5. Image Classifier Project.ipynb -  is the classifier sandbox that was used to create the command line applications train.py and test.py.  
 6. README.md - this file.  
 
 <a name="files-needed"></a>     
