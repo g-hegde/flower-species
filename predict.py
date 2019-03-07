@@ -23,7 +23,7 @@ def process_image(image):
         returns an Numpy array
     '''
     
- # TODO: Process a PIL image for use in a PyTorch model
+ # TODO:    Process a PIL image for use in a PyTorch model
 
     processed_image = None
     
